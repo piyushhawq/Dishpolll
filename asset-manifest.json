@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Dishpolll/static/css/main.28f6858b.css",
-    "main.js": "/Dishpolll/static/js/main.4c16ffe4.js",
+    "main.js": "/Dishpolll/static/js/main.f649beaa.js",
     "index.html": "/Dishpolll/index.html",
     "main.28f6858b.css.map": "/Dishpolll/static/css/main.28f6858b.css.map",
-    "main.4c16ffe4.js.map": "/Dishpolll/static/js/main.4c16ffe4.js.map"
+    "main.f649beaa.js.map": "/Dishpolll/static/js/main.f649beaa.js.map"
   },
   "entrypoints": [
     "static/css/main.28f6858b.css",
-    "static/js/main.4c16ffe4.js"
+    "static/js/main.f649beaa.js"
   ]
 }
